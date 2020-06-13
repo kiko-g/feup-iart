@@ -4,6 +4,5 @@
 >
 > https://github.com/motapinto/google-hashcode-2018
 
-> **Project 2: ...**\
->
+> **Project 2: ...**
 > https://github.com/motapinto/google-hashcode-2018

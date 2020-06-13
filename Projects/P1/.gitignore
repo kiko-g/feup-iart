@@ -1,0 +1,11 @@
+# general
+**/.idea
+*.iml
+gits
+
+# other
+__pycache__/
+*.pyc
+*.out
+
+#nesting
